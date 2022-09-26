@@ -1,4 +1,4 @@
-# Jira_Clone
+# Jira_Management
 
 This project is a Basic Todo App ,Users can set their wishlist according to the color priorities
 
